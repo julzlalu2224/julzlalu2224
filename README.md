@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=James%20Romero&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=20&descColor=c7d2fe" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ef4444&height=200&section=header&text=James%20Romero&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=20&descColor=fecaca" />
 </div>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Building+beautiful%2C+functional+digital+experiences;Full+Stack+Developer+%7C+PHP+%7C+TypeScript+%7C+React;AI+Integration+Enthusiast;Open+to+collaborate+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=EF4444&center=true&vCenter=true&width=700&lines=Building+beautiful%2C+functional+digital+experiences;Full+Stack+Developer+%7C+PHP+%7C+TypeScript+%7C+React;AI+Integration+Enthusiast;Open+to+collaborate+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -24,12 +24,12 @@
 
 > *Creating beautiful, functional, and user-centered digital experiences. Passionate about building innovative solutions that make a difference.*
 
-- 🏢 Currently **Senior Developer** at **Fliquey Media Entertainment**
+- 🏢 **Full-Stack Developer** at **Fliquey Media Entertainment**
 - 🎓 **BS Information Technology** — Divine Word College of Calapan *(Dean's Lister)*
 - 🌐 Portfolio: [jamesromero.pages.dev](https://jamesromero.pages.dev)
 - 🤖 Love integrating **AI** into real products (OpenAI, Claude, Gemini APIs)
 - ☁️ Certified **Cloud System Analyst** & **Cyber Security** practitioner
-- 📫 Reach me at **hello@jamesromero.dev**
+- 📫 Reach me at **jamescarlo.romero22@gmail.com**
 
 ---
 
@@ -110,6 +110,7 @@ Developer            DiGi Computer                   2024 — 2025
 IT Support           Provincial Capitol              2023 — 2024
 IT Intern            Toyota Calapan                  Summer 2022
 Computer Technician  Freelance                       2021 — Present
+Web Developer        Freelance                       2024 — Present
 ```
 
 ---
@@ -125,15 +126,18 @@ Computer Technician  Freelance                       2021 — Present
 
 ---
 
-## 📈 Activity
+## � Contribution Snake
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=julzlalu2224&bg_color=0d1117&color=6366f1&line=6366f1&point=f59e0b&area=true&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/julzlalu2224/julzlalu2224/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/julzlalu2224/julzlalu2224/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/julzlalu2224/julzlalu2224/output/github-snake.svg" />
+  </picture>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer&fontColor=ffffff" />
-  <p><em>Built with ❤️ by James Romero</em></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ef4444&height=100&section=footer&fontColor=ffffff" />
 </div>
