@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/jamesromero" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-James%20Romero-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:hello@jamesromero.dev">
+  <a href="mailto:jamescarlo.romero22@gmail.com">
     <img src="https://img.shields.io/badge/Email-hello@jamesromero.dev-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -109,8 +109,8 @@ Senior Developer     Fliquey Media Entertainment     Jan 2025 — Mar 2026
 Developer            DiGi Computer                   2024 — 2025
 IT Support           Provincial Capitol              2023 — 2024
 IT Intern            Toyota Calapan                  Summer 2022
-Computer Technician  Freelance                       2021 — Present
 Web Developer        Freelance                       2024 — Present
+Computer Technician  Freelance                       2021 — Present
 ```
 
 ---
@@ -126,14 +126,19 @@ Web Developer        Freelance                       2024 — Present
 
 ---
 
-## � Contribution Snake
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/julzlalu2224/julzlalu2224/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/julzlalu2224/julzlalu2224/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/julzlalu2224/julzlalu2224/output/github-snake.svg" />
-  </picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=julzlalu2224&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+</div>
+
+---
+
+## 👁️ Profile Views
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=julzlalu2224&style=for-the-badge&color=ef4444&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/julzlalu2224?style=for-the-badge&color=ef4444&label=FOLLOWERS&logo=github" />
 </div>
 
 ---
