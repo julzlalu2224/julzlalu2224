@@ -25,7 +25,7 @@
 > *Creating beautiful, functional, and user-centered digital experiences. Passionate about building innovative solutions that make a difference.*
 
 - 🏢 **Full-Stack Developer** at **Fliquey Media Entertainment**
-- 🎓 **BS Information Technology** — Divine Word College of Calapan *(Dean's Lister)*
+- 🎓 **BS Information Technology** — Divine Word College of Calapan
 - 🌐 Portfolio: [jamesromero.pages.dev](https://jamesromero.pages.dev)
 - 🤖 Love integrating **AI** into real products (OpenAI, Claude, Gemini APIs)
 - ☁️ Certified **Cloud System Analyst** & **Cyber Security** practitioner
